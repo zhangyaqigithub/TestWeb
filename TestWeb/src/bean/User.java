@@ -2,9 +2,9 @@ package bean;
 
 public class User {
 	private Integer  id;
-	private String  name;
+	private String   name;
 	public Integer getId() {
-		return id;
+		return  id;
 	}
 	public void setId(Integer id) {
 		this.id = id;
