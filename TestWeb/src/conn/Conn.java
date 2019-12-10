@@ -7,7 +7,7 @@ public class Conn {
 	private String url="mysql:jdbc//localhost:8080/we";
 	private String username="root";
 	private String password="root";
-	private Connection conn;
+	private Connection conn ;
 	public Connection getConn() {
 		
 		return conn;
