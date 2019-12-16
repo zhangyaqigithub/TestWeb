@@ -8,5 +8,6 @@ public class B1 {
 public static void main(String[] args) {
 	System.out.println("测试b1分支");
 	System.out.println("测试b1分支");
+	System.out.println("测试b11分支");
 }
 }
