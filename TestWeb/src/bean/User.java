@@ -1,7 +1,8 @@
 package bean;
 
 public class User {
-	private  Integer  id;
+	//测
+	private Integer  id;
 	private String   name;
 	public Integer    getId() {
 		return  id;
