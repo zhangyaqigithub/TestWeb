@@ -1,7 +1,9 @@
 package bean;
 
 public class User {
-	//测
+
+	//金额
+
 	private Integer  id;
 	private String   name;
 	public Integer    getId() {
