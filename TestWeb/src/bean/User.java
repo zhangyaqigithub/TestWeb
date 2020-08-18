@@ -1,7 +1,7 @@
 package bean;
 
 public class User {
-	//≤‚ ‘
+	//≤‚ ‘ ‘Ÿ≤‚
 	private Integer  id;
 	private String   name;
 	public Integer    getId() {
