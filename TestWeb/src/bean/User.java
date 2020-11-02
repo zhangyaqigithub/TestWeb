@@ -3,7 +3,7 @@ package bean;
 public class User {
 	//master 本地
 	//金额
-
+//yun
 	private Integer  id;
 	private String   name;
 	public Integer    getId() {
