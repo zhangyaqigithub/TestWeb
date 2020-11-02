@@ -1,7 +1,7 @@
 package bean;
 
 public class User {
-
+	//master 本地
 	//金额
 
 	private Integer  id;
